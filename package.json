@@ -1,0 +1,34 @@
+{
+  "name": "random-minmax",
+  "version": "0.1.0",
+  "description": "Math.random with min & max range value",
+  "main": "dist/bundle.min.cjs",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharifauzan/random-minmax.git"
+  },
+  "keywords": [
+    "Math",
+    "random",
+    "range",
+    "minmax"
+  ],
+  "author": "Fauzan Hibatullah Ashari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asharifauzan/random-minmax/issues"
+  },
+  "homepage": "https://github.com/asharifauzan/random-minmax#readme",
+  "devDependencies": {
+    "rollup": "^3.20.2",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}
