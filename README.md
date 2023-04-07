@@ -1,7 +1,7 @@
 ## How to use:
 
 ```
-const getRandomMinMax = require('random-minmax);
+const getRandomMinMax = require('random-minmax');
 
 const random = getRandomMinMax({min: -100, max: 100})
 console.log(random) // -100 upto 100

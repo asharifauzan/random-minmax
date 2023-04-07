@@ -1,6 +1,6 @@
 {
   "name": "random-minmax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Math.random with min & max range value",
   "main": "dist/bundle.min.cjs",
   "type": "module",
